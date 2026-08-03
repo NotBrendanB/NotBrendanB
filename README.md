@@ -1,16 +1,23 @@
-## Hi there 👋
+# Wassup, I'm Brendan 👋
 
-<!--
-**NotBrendanB/NotBrendanB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EE student at Georgia Tech, currently figuring out what goofy things I can build. Played soccer for a long time, still into video games and hanging out when I'm not messing around with code.
 
-Here are some ideas to get you started:
+## What I'm into
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building random projects out of curiosity 
+- Physics, circuits, and how stuff works
+- Turning trash first drafts into slightly less-bad second drafts
+
+## Projects
+
+- 🎙️ **[Wilsun](https://github.com/NotBrendanB/VoiceAssistant)** — desktop AI voice assistant, Python + Groq/Llama 3.3, streams TTS audio with zero temp files
+- 🧪 **[Physics Sandbox](https://github.com/NotBrendanB/physics-sandbox)** — 2D physics playground built with Pygame
+- 🌐 **[Personal Website](https://notbrendanb.github.io/Personal-Website/)** — my portfolio site
+- Some smaller scripts too (cross product calculator, basic calculator) — early practice, but they're there
+
+## Currently
+
+Starting first year at Georgia Tech, trying to adjust to everything.
+
+---
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/brendanebarnes/) (pls i need connections)
