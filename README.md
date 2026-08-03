@@ -12,7 +12,7 @@ EE student at Georgia Tech, currently figuring out what goofy things I can build
 
 - 🎙️ **[Wilsun](https://github.com/NotBrendanB/VoiceAssistant)** — desktop AI voice assistant, Python + Groq/Llama 3.3, streams TTS audio with zero temp files
 - 🧪 **[Physics Sandbox](https://github.com/NotBrendanB/physics-sandbox)** — 2D physics playground built with Pygame
-- 🌐 **[Personal Website](https://notbrendanb.github.io/Personal-Website/)** — my portfolio site
+- 🌐 **[Personal Website](https://notbrendanb.github.io/personal-website/)** — my portfolio site
 - Some smaller scripts too (cross product calculator, basic calculator) — early practice, but they're there
 
 ## Currently
