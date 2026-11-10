@@ -9,6 +9,7 @@ EE student at Georgia Tech, currently figuring out what goofy things I can build
 - Turning trash first drafts into slightly less-bad second drafts
 
 ## Projects
+- 📟 **[LED PCB](https://github.com/NotBrendanB/555-LED-Blinker)** -simple blinking led pcb
 - 🌐 **[communityCompute](https://github.com/NotBrendanB/community-compute)** -distributed computing site built at hackgt13
 - 🎮 **[Hotel Sim](https://github.com/NotBrendanB/endless-hotel-sim)** -endless Hotel management simulator, built in C++
 - 🎙️ **[Wilsun](https://github.com/NotBrendanB/VoiceAssistant)** — desktop AI voice assistant, Python + Groq/Llama 3.3, streams TTS audio with zero temp files
